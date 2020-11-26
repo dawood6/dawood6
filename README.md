@@ -1,4 +1,4 @@
-### Hi there <span class="wave">👋</span>
+### Hi there <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="40" >
 
 <!--
 **dawood6/dawood6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="40" >
+### Hi there <img src="https://static.wixstatic.com/media/f5d826_8ac5ee7901b145d1bdaf7536dd808aa3~mv2.gif" width="50" >
 
 <!--
 **dawood6/dawood6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

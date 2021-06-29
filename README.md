@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://developerdawoodsadiq.web.app/"><img src="https://img.shields.io/badge/-DevFolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="dawoodsadiq.com"><img src="https://img.shields.io/badge/-DevFolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dawood-sadiq-739178199/"><img src="https://img.shields.io/badge/-Dawood%20Sadiq-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dawoodsadiq171@gmail.com"><img src="https://img.shields.io/badge/-dawoodsadiq171@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dawoodsadiq06/"><img src="https://img.shields.io/badge/-@dawoodsadiq06-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

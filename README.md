@@ -43,7 +43,8 @@
 </a>
 </p>
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dawood6&card_width=550)](https://github.com/dawood6/dawod6)
-]
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

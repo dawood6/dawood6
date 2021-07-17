@@ -42,6 +42,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood6&&theme=react"  alt="dawood6" />
 </a>
 </p>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiul-islam&card_width=550)](https://github.com/hadiul-islam/hadiul-islam)
 
 ### 🤝🏻 &nbsp;Connect with Me
 

@@ -41,9 +41,7 @@
   <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood6&layout=compact&langs_count=8&theme=react"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood6&&theme=react"  alt="dawood6" />
 </a>
-</p>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dawood6&card_width=550)](https://github.com/dawood6/dawod6)
-
+</p>]
 
 ### 🤝🏻 &nbsp;Connect with Me
 

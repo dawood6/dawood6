@@ -7,8 +7,8 @@
 ✍️ &nbsp;In my free time, I pursue Coding and Gaming as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dawoodsadiq171@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/15Vu-d9E9xcJFjN83T7QsNnicjkuGJlCq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/15Vu-d9E9xcJFjN83T7QsNnicjkuGJlCq/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!  
+              
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -41,7 +41,7 @@
   <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood6&layout=compact&langs_count=8&theme=react"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood6&&theme=react"  alt="dawood6" />
 </a>
-</p>]
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

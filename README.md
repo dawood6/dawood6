@@ -41,6 +41,7 @@
   <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood6&layout=compact&langs_count=8&theme=react"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood6&&theme=react"  alt="dawood6" />
 </a>
+[![committers.top badge](https://user-badge.committers.top/pakistan/dawood6.svg)](https://user-badge.committers.top/pakistan/dawood6)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me

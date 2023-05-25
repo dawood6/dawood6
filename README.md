@@ -7,9 +7,9 @@ React Pro Developer: Master in Redux, Hooks, Next.js, Gatsby, Webpack
 🚀 Pro React Developer with 3+ years of experience 💻 I am a seasoned frontend developer with extensive experience in React development. My expertise in building high-performance and scalable web applications has earned me a reputation as a reliable and efficient developer. With a keen eye for detail and a passion for creating visually appealing and user-friendly interfaces, I am able to deliver top-notch solutions that meet the needs of my clients. 
 
 🔥 Reviews from previous clients: 
-"Dawood met all my expectations, worked hard and completed my project efficiently." 
-"On time and always available, gave regular updates and delivered a great final product." 
-"Dawood did an excellent job of converting my Figma designs to a working website."
+* Dawood met all my expectations, worked hard and completed my project efficiently.
+* On time and always available, gave regular updates and delivered a great final product.
+* Dawood did an excellent job of converting my Figma designs to a working website.
 
 *   🌍  I'm based in Karachi, Pakistan
 *   ✉️  You can contact me at [dawoodsadiq171@gmail.com](mailto:dawoodsadiq171@gmail.com)
